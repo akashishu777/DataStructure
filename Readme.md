@@ -1,4 +1,4 @@
-Candidate is requested to refresh topics on data structures & algorithms
+Data structures & algorithms
 
 i)	e.g., Array, Grid, List, Tree, Graph, Map, String, Search, Sort, Permutations/Combinations/Probability, Traversal, Path finding, Optimization, Dynamic Programming etc.
 
