@@ -1,7 +1,6 @@
- /*
-    * C program to accept N numbers and arrange them in an ascending order
-*/
- 
+/*
+ * C program to sort N numbers in ascending order using Bubble sort
+ */
     #include <stdio.h>
     void main()
     {
@@ -28,9 +27,7 @@
                     number[j] = a;
  
                 }
- 
             }
- 
         }
  
         printf("The numbers arranged in ascending order are given below \n");
@@ -38,3 +35,13 @@
             printf("%d\n", number[i]);
  
     }
+
+// Bubble sort has a worst-case and average complexity of О(n2), 
+// where n is the number of items being sorted. Most practical sorting 
+// algorithms have substantially better worst-case or average complexity, often O(n log n).
+
+// Class: Sorting algorithm
+
+// Worst-case space complexity: auxiliary
+
+// Data structure: Array
